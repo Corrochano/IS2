@@ -1,0 +1,11 @@
+L1 La_Celestina 15 Fernando_de_Rojas HISTORIA
+L2 Fray_Perico 22 Perico_Palotes INFANTIL
+L3 El_Quijote 2 Miguel_de_Cervantes HISTORIA
+L5 El_Lazarillo 27 Anónimo HISTORIA
+L6 It 16 Stephen_King TERROR
+L8 La_interpretación_de_los_sueños 17 Sigmund_Freud CIENCIA
+L9 Picasso_y_el_arte_del_todo 35 Marta_Domínguez ARTE
+L23 Libro_rojo 21 Pablo_Calleja TERROR
+L19 Cuentos_de_niños 32 Laura_Roldan INFANTIL
+L20 El_Cid 54 Anonimo ARTE
+L21 Matematicas_4ºESO 30 SM CIENCIA

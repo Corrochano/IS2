@@ -1,0 +1,8 @@
+V3 El_Principito 10 54321B 25 2 120
+V5 Sherlock_Holmes 10 5432D 3 2 120
+V6 El_Alquimista 63 05896L 10 4 120
+V7 El_Nombre_De_La_Rosa 12 02378V 4 0 119
+V2 La_Casa_de_los_Espíritus 40 01234A 28 3 120
+V8 El_Amor_En_Los_Tiempos_Del_Cólera 16 987654S 15 4 120
+V1 Undertale 10 01234A 16 8 120
+V9 Lengua_3ºeso 43 54321B 10 8 120
