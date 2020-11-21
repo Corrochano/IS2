@@ -1,0 +1,12 @@
+54321B 4321 cliente
+56432D 5678 cliente
+05896L 3210 cliente
+alvaro 1234 administrador
+toni1 1234 administrador
+pablo 1234 administrador
+cristian 1234 administrador
+36987A 4321 administrador
+987654S 1111 cliente
+02345V 66666 cliente
+01234A 55555 cliente
+02378V 3214 cliente
